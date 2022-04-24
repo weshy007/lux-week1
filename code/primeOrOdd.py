@@ -13,7 +13,7 @@ def primeOrNot():
 
         '''
         If the entered number is less than or equal to 1
-        Then it is not prime number
+        That is not a prime number
         '''
     else:
         print(num, "is not a prime number")
